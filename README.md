@@ -20,6 +20,8 @@ We wrote most code by ourselves from scratch, partially using the code in LAB1 a
 
 ## Result sample
 
+The blue bounding box denotes detecting result and the red one is final estimated bounding box.
+
 ![result_video_1](media/result_video_1.gif)
 
 Sometimes the result is limited by the detection accuracy
